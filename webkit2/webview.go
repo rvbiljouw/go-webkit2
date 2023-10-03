@@ -18,7 +18,7 @@ import (
 
 	"github.com/gotk3/gotk3/glib"
 	"github.com/gotk3/gotk3/gtk"
-	"github.com/sqs/gojs"
+	"github.com/jbuchbinder/gojs"
 )
 
 // WebView represents a WebKit WebView.
